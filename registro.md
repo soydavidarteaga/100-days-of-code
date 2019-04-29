@@ -20,3 +20,15 @@
 [Curso de React Native](https://www.udemy.com/curso-completo-de-react-native-y-mobx)
 
  [Repositorio de mis practicas](https://github.com/soydavidarteaga/CursoDeReactNativeUdemy/commit/b96a66184aa27b9f6c567f8a1ebb765bfb62a720) 
+
+ 
+
+ ### Día 3: 28 de Abril de 2019
+
+**Progreso de hoy**: En esta ocasion he puesto los iconos al navbar, fue una tarea dificil dado a que estoy usando react native por medio de **Expo** y no como lo indican en el curso, hay que aplicarlos de otra forma, pero lo he logrado
+
+**Reflexiones:** Me esta gustando mucho lo que se esta logrando en el curso, se siente que en poco tiempo podré empezar mi proyecto de aplicacion 
+
+[Curso de React Native](https://www.udemy.com/curso-completo-de-react-native-y-mobx)
+
+ [Repositorio de mis practicas](https://github.com/soydavidarteaga/CursoDeReactNativeUdemy/commit/f3442007056cab93fac0f64472cf557cdd84e431) 
