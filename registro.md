@@ -32,3 +32,13 @@
 [Curso de React Native](https://www.udemy.com/curso-completo-de-react-native-y-mobx)
 
  [Repositorio de mis practicas](https://github.com/soydavidarteaga/CursoDeReactNativeUdemy/commit/f3442007056cab93fac0f64472cf557cdd84e431) 
+
+  ### Día 4: 29 de Abril de 2019
+
+**Progreso de hoy**: Empezamos a usar #ReactNavigator que es basicamente, hacer lo que se hizo anteriormente de una mejor forma, tambien como practica se aplico funcionalidad a los botones de la navbar, (el atras y el favorito).
+
+**Reflexiones:** Me esta gustando mucho lo que se esta logrando en el curso, se siente que en poco tiempo podré empezar mi proyecto de aplicacion 
+
+[Curso de React Native](https://www.udemy.com/curso-completo-de-react-native-y-mobx)
+
+ [Repositorio de mis practicas](https://github.com/soydavidarteaga/CursoDeReactNativeUdemy) 
