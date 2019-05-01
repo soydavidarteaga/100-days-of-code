@@ -42,3 +42,13 @@
 [Curso de React Native](https://www.udemy.com/curso-completo-de-react-native-y-mobx)
 
  [Repositorio de mis practicas](https://github.com/soydavidarteaga/CursoDeReactNativeUdemy) 
+
+   ### Día 5: 30 de Abril de 2019
+
+**Progreso de hoy**: Creo que la aplicacion esta tomando ya forma, a la estructura de ayer se le agregó información (imagenes y datos) creando asi un boceto bastante mejorado de como va a quedar la pantalla de Explore.
+
+**Reflexiones:** Hoy fue un dia bastante intenso, por un lado esperanzado por lo que sucede en el pais, y tambien estoy bastante emocionado por como esta quedando la app del curso.
+
+[Curso de React Native](https://www.udemy.com/curso-completo-de-react-native-y-mobx)
+
+ [Repositorio de mis practicas](https://github.com/soydavidarteaga/CursoDeReactNativeUdemy/commit/3cb96b5f786296b405090b86fb4c19b8172dcbc2) 
