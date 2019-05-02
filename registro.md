@@ -52,3 +52,13 @@
 [Curso de React Native](https://www.udemy.com/curso-completo-de-react-native-y-mobx)
 
  [Repositorio de mis practicas](https://github.com/soydavidarteaga/CursoDeReactNativeUdemy/commit/3cb96b5f786296b405090b86fb4c19b8172dcbc2) 
+
+  ### Día 6: 01 de Mayo de 2019
+
+**Progreso de hoy**: En este dia se hizo la pantalla de Categorias, como practica no guiada por el profesor, logro obtenido, se hizo la pantalla sin demasiado problemas, gracias a lo ya estudiado.
+
+**Reflexiones:** Me gusta como va quedando
+
+[Curso de React Native](https://www.udemy.com/curso-completo-de-react-native-y-mobx)
+
+ [Repositorio de mis practicas](https://github.com/soydavidarteaga/CursoDeReactNativeUdemy/commit/070ef32c6dfac55628c10ab7ba74fb2ee1d017bd) 
