@@ -62,3 +62,13 @@
 [Curso de React Native](https://www.udemy.com/curso-completo-de-react-native-y-mobx)
 
  [Repositorio de mis practicas](https://github.com/soydavidarteaga/CursoDeReactNativeUdemy/commit/070ef32c6dfac55628c10ab7ba74fb2ee1d017bd) 
+
+   ### Día 7: 02 de Mayo de 2019
+
+**Progreso de hoy**: Hemos añadido un TabBar Personalizado a la aplicacion, se ve bastante bien, ya que ahora tiene iconos y un color de seleccionado, ha agarrado bastante forma el pie de la aplicacion. Muy feliz llevo 61 porciento del curso
+
+**Reflexiones:** Me gusta como va quedando
+
+[Curso de React Native](https://www.udemy.com/curso-completo-de-react-native-y-mobx)
+
+ [Repositorio de mis practicas](https://github.com/soydavidarteaga/CursoDeReactNativeUdemy/commit/69ff51db59465f26ecd8412e300c9e28bc9b9e48) 
