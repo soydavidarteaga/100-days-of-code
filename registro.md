@@ -72,3 +72,13 @@
 [Curso de React Native](https://www.udemy.com/curso-completo-de-react-native-y-mobx)
 
  [Repositorio de mis practicas](https://github.com/soydavidarteaga/CursoDeReactNativeUdemy/commit/69ff51db59465f26ecd8412e300c9e28bc9b9e48) 
+
+    ### Día 7: 02 de Mayo de 2019
+
+**Progreso de hoy**: Llegamos a la semana, y con esa empecé a hacer el detalle de cada receta, se uso las herramientas de navegacion para llegar a esa Screen y otro para ir a atras. He aqui la estructura de la pantalla.
+
+**Reflexiones:** Me gusta como va quedando
+
+[Curso de React Native](https://www.udemy.com/curso-completo-de-react-native-y-mobx)
+
+ [Repositorio de mis practicas](https://github.com/soydavidarteaga/CursoDeReactNativeUdemy/commit/fcc8ebbe33bcc5bd7c0149f97d71da37f101699c) 
