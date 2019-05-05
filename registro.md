@@ -73,7 +73,7 @@
 
  [Repositorio de mis practicas](https://github.com/soydavidarteaga/CursoDeReactNativeUdemy/commit/69ff51db59465f26ecd8412e300c9e28bc9b9e48) 
 
-    ### Día 7: 02 de Mayo de 2019
+    ### Día 8: 03 de Mayo de 2019
 
 **Progreso de hoy**: Llegamos a la semana, y con esa empecé a hacer el detalle de cada receta, se uso las herramientas de navegacion para llegar a esa Screen y otro para ir a atras. He aqui la estructura de la pantalla.
 
@@ -82,3 +82,13 @@
 [Curso de React Native](https://www.udemy.com/curso-completo-de-react-native-y-mobx)
 
  [Repositorio de mis practicas](https://github.com/soydavidarteaga/CursoDeReactNativeUdemy/commit/fcc8ebbe33bcc5bd7c0149f97d71da37f101699c) 
+
+     ### Día 9: 04 de Mayo de 2019
+
+**Progreso de hoy**: Hemos completado la pantalla de detalles de la receta, aplicando nuevos componentes como la ScrollView, y un nuevo estilo transparente para la barra de navegacion.
+
+**Reflexiones:** Me gusta como va quedando
+
+[Curso de React Native](https://www.udemy.com/curso-completo-de-react-native-y-mobx)
+
+ [Repositorio de mis practicas](https://github.com/soydavidarteaga/CursoDeReactNativeUdemy/commit/3ba994a5e52cecd55c55b3c432b87f841317f864) 
