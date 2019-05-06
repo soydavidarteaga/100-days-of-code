@@ -92,3 +92,13 @@
 [Curso de React Native](https://www.udemy.com/curso-completo-de-react-native-y-mobx)
 
  [Repositorio de mis practicas](https://github.com/soydavidarteaga/CursoDeReactNativeUdemy/commit/3ba994a5e52cecd55c55b3c432b87f841317f864) 
+
+      ### Día 10: 05 de Mayo de 2019
+
+**Progreso de hoy**: Se han completado todas las pantallas, se termino la pantalla de Explore, añadiendole un componente nuevo, y pantallas que faltaban como Favoritos y la lista de Categorias estan terminadas.
+
+**Reflexiones:** Me gusta como va quedando
+
+[Curso de React Native](https://www.udemy.com/curso-completo-de-react-native-y-mobx)
+
+ [Repositorio de mis practicas](https://github.com/soydavidarteaga/CursoDeReactNativeUdemy/commit/7e644fcb391958dfa01375119b663118ae5e27f7) 
