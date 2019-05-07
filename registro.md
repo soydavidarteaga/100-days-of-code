@@ -102,3 +102,14 @@
 [Curso de React Native](https://www.udemy.com/curso-completo-de-react-native-y-mobx)
 
  [Repositorio de mis practicas](https://github.com/soydavidarteaga/CursoDeReactNativeUdemy/commit/7e644fcb391958dfa01375119b663118ae5e27f7) 
+
+       ### Día 11: 06 de Mayo de 2019
+
+**Progreso de hoy**: He instalado un gestor de estados llamado MobX, y se ha creado el Store de Recipe, asi de esa manera a nivel de logica por lo menos, los datos estan mas organizados.
+
+**Reflexiones:** Me gusta como va quedando
+
+[Curso de React Native](https://www.udemy.com/curso-completo-de-react-native-y-mobx)
+
+ [Repositorio de mis practicas](https://github.com/soydavidarteaga/CursoDeReactNativeUdemy/commit/d63a4dbd895adb00731c81c0814c72123b7720f2) 
+
