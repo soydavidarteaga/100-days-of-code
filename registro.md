@@ -113,3 +113,13 @@
 
  [Repositorio de mis practicas](https://github.com/soydavidarteaga/CursoDeReactNativeUdemy/commit/d63a4dbd895adb00731c81c0814c72123b7720f2) 
 
+        ### Día 12: 07 de Mayo de 2019
+
+**Progreso de hoy**: He instalado todo lo necesario para consultar con la api, de hecho se ha consultado a la api, haciendo asi que nuestra aplicacion tenga comunicacion con un servidor, ah y tambien he completado practicamente el curso.
+
+**Reflexiones:** Me gusta como va quedando
+
+[Curso de React Native](https://www.udemy.com/curso-completo-de-react-native-y-mobx)
+
+ [Repositorio de mis practicas](https://github.com/soydavidarteaga/CursoDeReactNativeUdemy/commit/683b42227bf8c77acc669c6e2d4225ef2e1887c9) 
+
