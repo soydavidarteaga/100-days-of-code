@@ -131,5 +131,33 @@
 
 [Curso de React Native](https://www.udemy.com/curso-completo-de-react-native-y-mobx)
 
- [Repositorio de mis practicas](https://github.com/soydavidarteaga/CursoDeReactNativeUdemy/commit/f3687f7e727c278f4e129805fbe6960ca4b4e352) 
+ [Repositorio de mis practicas](https://github.com/soydavidarteaga/CursoDeReactNativeUdemy/commit/f3687f7e727c278f4e129805fbe6960ca4b4e352)
+
+          ### Día 14: 09 de Mayo de 2019
+
+**Progreso de hoy**: ya que terminó la app del curso, estoy buscando una manera de repotenciarle. Ponerle más datos, y/o hacerla más funcional. Quizás haga un directorio de recetas de cocina, muy interesante
+
+**Reflexiones:** Me gusta como va quedando
+
+[Curso de React Native](https://www.udemy.com/curso-completo-de-react-native-y-mobx)
+
+          ### Día 15: 13 de Mayo de 2019
+
+**Progreso de hoy**: he publicado la aplicación en Expo. Está lista para que la prueben, pueden hacerlo desde @expo o bien me escriben y les pasó el APK. 
+
+**Reflexiones:** Me gusta como va quedando
+
+[Curso de React Native](https://www.udemy.com/curso-completo-de-react-native-y-mobx)
+
+ [Apk](https://expo.io/@david17art/apprecetas)
+
+           ### Día 15: 14 de Mayo de 2019
+
+**Progreso de hoy**: Ahora que me propuse a mejorar la aplicación,  he creado una pantalla adicional que servira, para añadir nuevas recetas, hice la pantalla y añadi la tab a la TabBar
+
+
+[Curso de React Native](https://www.udemy.com/curso-completo-de-react-native-y-mobx)
+
+ [Repositorio de mis practicas](https://github.com/soydavidarteaga/CursoDeReactNativeUdemy/commit/ad5ae1e2c9debdc76cb4409456bb6a6d76f3563c)
+
 
