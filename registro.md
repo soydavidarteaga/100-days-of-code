@@ -151,7 +151,7 @@
 
  [Apk](https://expo.io/@david17art/apprecetas)
 
-           ### Día 15: 14 de Mayo de 2019
+           ### Día 16: 14 de Mayo de 2019
 
 **Progreso de hoy**: Ahora que me propuse a mejorar la aplicación,  he creado una pantalla adicional que servira, para añadir nuevas recetas, hice la pantalla y añadi la tab a la TabBar
 
